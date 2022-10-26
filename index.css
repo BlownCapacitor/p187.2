@@ -1,0 +1,59 @@
+#name {
+  color:rgb(78, 78, 78)
+}
+
+#AboutMe {
+    font-weight: bold;
+    color: rgb(35, 73, 60);
+}
+#my_badges {
+    font-weight: bold;
+    color: rgb(35, 73, 60);
+}
+#My_Projects_Text {
+    padding-top: 5%;
+}
+#contact{
+    font-weight: bold;
+    color: aquamarine;
+}
+#phone{
+    font-weight: light;
+    color: rgb(0, 0, 0);
+}
+#ph_number{
+    color: rgb(131, 94, 31);
+}
+#address{
+   color: rgb(131, 94, 31); 
+}
+#badge1 {
+    padding:2%
+  }
+#badge2 {
+    padding:2%
+  }
+  #badge3 {
+    padding:2%
+  }
+  #badge4 {
+    padding:2%
+  }
+  #badge5 {
+    padding:2%
+  }
+  #badge6 {
+    padding:2%
+  }
+  #badge7 {
+    padding:2%
+  }
+  #badge8 {
+    padding:2%
+  }
+  #badge9 {
+    padding:2%
+  }
+  #badge10 {
+    padding:2%
+  }
